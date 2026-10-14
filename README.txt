@@ -1,0 +1,1 @@
+Simpan screenshot hasil aplikasi yang benar-benar dijalankan di folder ini sebelum pengumpulan (login, dashboard, produk, transaksi, dan uji akses terlarang). Screenshot tidak dapat diisi tanpa menjalankan aplikasi di lingkungan XAMPP/MySQL Anda.
